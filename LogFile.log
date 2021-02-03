@@ -1,0 +1,61 @@
+2021-02-03 18:25:22 INFO  Solution:84 - Program started . . . function "console" runs . . .
+2021-02-03 18:25:22 INFO  Solution:91 - Enter IpV4 addresses file path: C:\Users\Karine\IdeaProjects\UniqueAddress\src\main\resources\DublicateAddressesTestFileSmall(10uniques).txt
+2021-02-03 18:25:22 INFO  Solution:32 - function "fromFileToDB" runs . . .
+2021-02-03 18:25:23 INFO  Solution:51 - function "fromFileToDB" is successfuly finished . . .
+2021-02-03 18:25:23 INFO  Solution:56 - function "countUniqueItem" runs  . . .
+2021-02-03 18:25:23 INFO  Solution:66 - function "countUniqueItem" is  successfuly finished . . .
+2021-02-03 18:25:23 INFO  Solution:96 - Number of unique IpV4 addresses in the file: 10
+2021-02-03 18:25:23 INFO  Solution:72 - function "cleanUpDB" runs  . . .
+2021-02-03 18:25:23 INFO  Solution:79 - function "cleanUpDB" is  successfuly finished . . .table truncated.
+2021-02-03 18:25:23 INFO  Solution:107 - Function "console" is finished . . . Program successfully completed. 
+2021-02-03 18:25:37 INFO  Solution:84 - Program started . . . function "console" runs . . .
+2021-02-03 18:25:37 INFO  Solution:91 - Enter IpV4 addresses file path: C:\Users\Karine\IdeaProjects\UniqueAddress\src\main\resources\DublicateAddressesTestFileSmall(10uniques).txt
+2021-02-03 18:25:37 INFO  Solution:32 - function "fromFileToDB" runs . . .
+2021-02-03 18:25:39 INFO  Solution:51 - function "fromFileToDB" is successfuly finished . . .
+2021-02-03 18:25:39 INFO  Solution:56 - function "countUniqueItem" runs  . . .
+2021-02-03 18:25:39 INFO  Solution:66 - function "countUniqueItem" is  successfuly finished . . .
+2021-02-03 18:25:39 INFO  Solution:96 - Number of unique IpV4 addresses in the file: 10
+2021-02-03 18:25:39 INFO  Solution:72 - function "cleanUpDB" runs  . . .
+2021-02-03 18:25:39 INFO  Solution:79 - function "cleanUpDB" is  successfuly finished . . .table truncated.
+2021-02-03 18:25:39 INFO  Solution:107 - Function "console" is finished . . . Program successfully completed. 
+2021-02-03 18:25:43 INFO  Solution:84 - Program started . . . function "console" runs . . .
+2021-02-03 18:25:43 INFO  Solution:91 - Enter IpV4 addresses file path: C:\Users\Karine\IdeaProjects\UniqueAddress\src\main\resources\DublicateAddressesTestFileSmall(10uniques).txt
+2021-02-03 18:25:43 INFO  Solution:32 - function "fromFileToDB" runs . . .
+2021-02-03 18:25:45 INFO  Solution:51 - function "fromFileToDB" is successfuly finished . . .
+2021-02-03 18:25:45 INFO  Solution:56 - function "countUniqueItem" runs  . . .
+2021-02-03 18:25:45 INFO  Solution:66 - function "countUniqueItem" is  successfuly finished . . .
+2021-02-03 18:25:45 INFO  Solution:96 - Number of unique IpV4 addresses in the file: 10
+2021-02-03 18:25:45 INFO  Solution:72 - function "cleanUpDB" runs  . . .
+2021-02-03 18:25:45 INFO  Solution:79 - function "cleanUpDB" is  successfuly finished . . .table truncated.
+2021-02-03 18:25:45 INFO  Solution:107 - Function "console" is finished . . . Program successfully completed. 
+2021-02-03 18:25:49 INFO  Solution:84 - Program started . . . function "console" runs . . .
+2021-02-03 18:25:58 INFO  Solution:84 - Program started . . . function "console" runs . . .
+2021-02-03 18:26:05 INFO  Solution:91 - Enter IpV4 addresses file path: C:\Users\Karine\IdeaProjects\UniqueAddress\src\main\resources\DublicateAddressesTestFileSmall(10uniques).txt
+2021-02-03 18:26:05 INFO  Solution:32 - function "fromFileToDB" runs . . .
+2021-02-03 18:26:07 INFO  Solution:51 - function "fromFileToDB" is successfuly finished . . .
+2021-02-03 18:26:07 INFO  Solution:56 - function "countUniqueItem" runs  . . .
+2021-02-03 18:26:07 INFO  Solution:66 - function "countUniqueItem" is  successfuly finished . . .
+2021-02-03 18:26:07 INFO  Solution:96 - Number of unique IpV4 addresses in the file: 10
+2021-02-03 18:26:07 INFO  Solution:72 - function "cleanUpDB" runs  . . .
+2021-02-03 18:26:07 INFO  Solution:79 - function "cleanUpDB" is  successfuly finished . . .table truncated.
+2021-02-03 18:26:07 INFO  Solution:107 - Function "console" is finished . . . Program successfully completed. 
+2021-02-03 18:27:08 INFO  Solution:84 - -----------Program started . . . function "console" runs . . .-----------
+2021-02-03 18:27:23 INFO  Solution:91 - Enter IpV4 addresses file path: C:\Users\Karine\IdeaProjects\UniqueAddress\src\main\resources\DublicateAddressesTestFileSmall(10uniques).txt
+2021-02-03 18:27:23 INFO  Solution:32 - function "fromFileToDB" runs . . .
+2021-02-03 18:27:25 INFO  Solution:51 - function "fromFileToDB" is successfuly finished . . .
+2021-02-03 18:27:25 INFO  Solution:56 - function "countUniqueItem" runs  . . .
+2021-02-03 18:27:25 INFO  Solution:66 - function "countUniqueItem" is  successfuly finished . . .
+2021-02-03 18:27:25 INFO  Solution:96 - Number of unique IpV4 addresses in the file: 10
+2021-02-03 18:27:25 INFO  Solution:72 - function "cleanUpDB" runs  . . .
+2021-02-03 18:27:25 INFO  Solution:79 - function "cleanUpDB" is  successfuly finished . . .table truncated.
+2021-02-03 18:27:25 INFO  Solution:107 - -----------Function "console" is finished . . . Program successfully completed.----------- 
+2021-02-03 18:27:32 INFO  Solution:84 - -----------Program started . . . function "console" runs . . .-----------
+2021-02-03 18:27:36 INFO  Solution:91 - Enter IpV4 addresses file path: C:\Users\Karine\IdeaProjects\UniqueAddress\src\main\resources\DublicateAddressesTestFileSmall(10uniques).txt
+2021-02-03 18:27:36 INFO  Solution:32 - function "fromFileToDB" runs . . .
+2021-02-03 18:27:38 INFO  Solution:51 - function "fromFileToDB" is successfuly finished . . .
+2021-02-03 18:27:38 INFO  Solution:56 - function "countUniqueItem" runs  . . .
+2021-02-03 18:27:38 INFO  Solution:66 - function "countUniqueItem" is  successfuly finished . . .
+2021-02-03 18:27:38 INFO  Solution:96 - Number of unique IpV4 addresses in the file: 10
+2021-02-03 18:27:38 INFO  Solution:72 - function "cleanUpDB" runs  . . .
+2021-02-03 18:27:38 INFO  Solution:79 - function "cleanUpDB" is  successfuly finished . . .table truncated.
+2021-02-03 18:27:38 INFO  Solution:107 - -----------Function "console" is finished . . . Program successfully completed.----------- 
